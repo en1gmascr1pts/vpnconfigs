@@ -8,5 +8,6 @@
   "SO7": "https://raw.githubusercontent.com/en1gmascr1pts/vpnconfigs/master/Windscribe.zip",
   "SO8": "https://s3-us-west-1.amazonaws.com/heartbleed/linux/linux-files.zip",
   "SO9": "https://raw.githubusercontent.com/en1gmascr1pts/vpnconfigs/master/VPNUnlimited.zip",
-  "S10": "https://raw.githubusercontent.com/en1gmascr1pts/vpnconfigs/master/SmartDNSProxy.zip"
+  "SO10": "https://raw.githubusercontent.com/en1gmascr1pts/vpnconfigs/master/SmartDNSProxy.zip",
+  "SO11": "https://raw.githubusercontent.com/en1gmascr1pts/vpnconfigs/master/ProtonVPN.zip"
 }
