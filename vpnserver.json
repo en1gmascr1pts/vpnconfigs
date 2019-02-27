@@ -3,7 +3,7 @@
   "SO2": "https://www.ipvanish.com/software/configs/configs.zip",
   "SO3": "https://deu.privateinternetaccess.com/openvpn/openvpn.zip",
   "SO4": "https://downloads.nordcdn.com/configs/archives/servers/ovpn.zip",
-  "SO5": "https://xtream-editor.com/files/vypr.zip",
+  "SO5": "https://raw.githubusercontent.com/en1gmascr1pts/vpnconfigs/master/vypr.zip",
   "SO6": "https://www.limevpn.com/downloads/OpenVPN-Config-1194.zip",
   "SO7": "https://raw.githubusercontent.com/en1gmascr1pts/vpnconfigs/master/Windscribe.zip",
   "SO8": "https://s3-us-west-1.amazonaws.com/heartbleed/linux/linux-files.zip"
